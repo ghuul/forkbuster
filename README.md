@@ -1,4 +1,5 @@
-PadBuster - Automated script for performing Padding Oracle attacks
+# PadBuster
+Automated script for performing Padding Oracle attacks
 
 Author: Brian Holyfield - Gotham Digital Science (labs@gdssecurity.com)
 
